@@ -223,7 +223,7 @@ Spark (Dataproc) → BigQuery
 **FREE Project Resources**
 
 * GCP End-to-End Data Engineering Project
-  [https://www.youtube.com/watch?v=VYp6kzj0nGQ](https://www.youtube.com/watch?v=VYp6kzj0nGQ)
+  [https://www.youtube.com/watch?v=VYp6kzj0nGQ]([https://www.youtube.com/watch?v=VYp6kzj0nGQ](https://github.com/saurabhvarule/Data_Engineering_Roadmap/edit/main/ReadMe.md))
 
 ---
 
