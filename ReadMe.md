@@ -1,207 +1,196 @@
-# 🚀 Data Engineering Roadmap (End‑to‑End) | Job‑Ready Guide
+#  Data Engineering Roadmap (End-to-End) | Job-Ready Guide
 
 Welcome to the **Data Engineering Roadmap** repository!
-This repo is a **complete, structured, end‑to‑end learning path** to become a **Production‑Ready Data Engineer** with strong fundamentals, real‑world projects, and cloud expertise (GCP‑focused).
+This repo is a **complete, structured, end-to-end learning path** to become a **Production-Ready Data Engineer** with **FREE, high-quality resources**.
 
-Whether you are a **beginner**, **career switcher**, or **working professional**, this roadmap will guide you from **ZERO → INTERVIEW‑READY DATA ENGINEER**.
+Cloud focus: **Google Cloud Platform (GCP)** ☁️
+Language focus: **Python & SQL** 🐍🗄️
 
 ---
 
 ## 🎯 Goal of This Repository
 
-✔ Build **strong Data Engineering fundamentals**
-✔ Master **SQL, Python, Big Data & Cloud**
-✔ Design **scalable batch & streaming pipelines**
-✔ Gain **hands‑on project experience**
-✔ Prepare for **real Data Engineering interviews**
-
-This roadmap emphasizes **HOW things work in real companies**, not just theory.
+✔ Strong Data Engineering fundamentals
+✔ Hands-on SQL & Python mastery
+✔ Batch + Streaming pipelines
+✔ Big Data & Cloud-native architecture
+✔ Interview-ready project experience
 
 ---
 
 ## 🧑‍💻 Who Should Follow This Roadmap?
 
 * Aspiring **Data Engineers**
-* Software Developers moving to Data roles
-* Analysts transitioning to Engineering
-* Freshers & experienced professionals
+* Software Developers → Data Engineering
+* Data Analysts → Engineering roles
+* Freshers & Working Professionals
 
-👉 No specific background required — **discipline & consistency matter most**.
+👉 Background doesn’t matter — **CONSISTENCY DOES**.
 
 ---
 
-## 🗺️ Roadmap Overview
-
-> Follow the modules **in order** if you are a beginner.
-> If you are experienced, **skip what you already know**.
+## 🗺️ Roadmap Flow
 
 ```
-Foundations → Data Modeling → Big Data → Cloud → Streaming → Orchestration → Projects → Interview Prep
+Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration → Projects → Interviews
 ```
 
 ---
 
-## 🧱 Module 1: Programming Foundations (Non‑Negotiable)
+## 🧱 Module 1: Programming Foundations (Non-Negotiable)
 
 ### 1️⃣ Python for Data Engineering
 
-Learn Python with a **data‑centric mindset**, not general scripting.
+**What to learn**
 
-Key Topics:
-
-* Data types & collections
-* Functions & OOP basics
+* Data types, loops, functions
+* OOP basics
 * File handling (CSV, JSON, Parquet)
 * Exception handling
-* Virtual environments
-* Writing production‑ready code
+* Writing clean, reusable code
 
-Why it matters:
+**FREE Resources**
 
-> Python is used in **ETL, APIs, orchestration, Spark, Airflow, Dataflow**.
+* Python for Data Engineering (Full Course)
+  [https://www.youtube.com/watch?v=ZvU7lupoXQE](https://www.youtube.com/watch?v=ZvU7lupoXQE)
+* Corey Schafer – Python Playlist
+  [https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 ---
 
-### 2️⃣ SQL (Most Important Skill ⭐)
+### 2️⃣ SQL (MOST IMPORTANT SKILL ⭐)
 
-Key Topics:
+**What to learn**
 
-* SELECT, WHERE, ORDER BY
-* JOINS (INNER, LEFT, RIGHT, FULL)
-* GROUP BY & HAVING
+* Joins (ALL types)
+* Aggregations
 * Subqueries & CTEs
-* Window Functions
+* Window functions
 * CASE statements
 * Query optimization
 
-Why it matters:
+**FREE Resources**
 
-> SQL is used **daily** by Data Engineers for debugging, modeling & analytics.
+* SQL for Data Engineers (Full Course)
+  [https://www.youtube.com/watch?v=YimMzb0mHkI](https://www.youtube.com/watch?v=YimMzb0mHkI)
+* SQL Window Functions Explained
+  [https://www.youtube.com/watch?v=Ww71knvhQ-s](https://www.youtube.com/watch?v=Ww71knvhQ-s)
+* LeetCode SQL Practice
+  [https://leetcode.com/studyplan/top-sql-50/](https://leetcode.com/studyplan/top-sql-50/)
 
 ---
 
 ## 🏗️ Module 2: Core Data Engineering Concepts
 
-### Data Engineering Fundamentals
+**Topics**
 
-* What is Data Engineering?
+* What is Data Engineering
 * OLTP vs OLAP
-* Batch vs Streaming
 * ETL vs ELT
+* Batch vs Streaming
 * Data Lake vs Data Warehouse
 
-### Data Warehousing
+**FREE Resources**
 
-* Fact & Dimension tables
-* Star & Snowflake schemas
-* Slowly Changing Dimensions (SCD)
-* Data quality checks
+* Fundamentals of Data Engineering
+  [https://www.youtube.com/watch?v=ZRz-7E-7X7c](https://www.youtube.com/watch?v=ZRz-7E-7X7c)
+* Data Warehouse Concepts
+  [https://www.youtube.com/watch?v=HKcEyHF1U00](https://www.youtube.com/watch?v=HKcEyHF1U00)
 
 ---
 
 ## 🗃️ Module 3: Storage & File Formats
 
-### File Formats
+**Topics**
 
-* CSV
-* JSON
-* Parquet
-* Avro
-
-Understand:
-
+* CSV, JSON, Parquet, Avro
 * Row vs Column storage
-* Compression
-* Schema evolution
+* Compression & schema evolution
 
-### Data Lakes
+**FREE Resources**
 
-* Partitioning strategies
-* Folder structure best practices
+* File Formats for Big Data
+  [https://www.youtube.com/watch?v=Kj9zH6Y2G2A](https://www.youtube.com/watch?v=Kj9zH6Y2G2A)
 
 ---
 
-## ☁️ Module 4: Cloud Fundamentals (GCP‑Focused)
+## ☁️ Module 4: Cloud Fundamentals (GCP)
 
 ### Google Cloud Basics
+
+**Topics**
 
 * Projects & billing
 * IAM & service accounts
 * Regions & zones
-* Cloud Console & gcloud CLI
+* gcloud CLI
+
+**FREE Resources**
+
+* GCP Full Course for Beginners
+  [https://www.youtube.com/watch?v=JP4lH0xN6Zk](https://www.youtube.com/watch?v=JP4lH0xN6Zk)
+* GCP IAM Explained
+  [https://www.youtube.com/watch?v=iqgXW6vPpLg](https://www.youtube.com/watch?v=iqgXW6vPpLg)
 
 ### Google Cloud Storage (GCS)
 
-* Buckets & objects
-* Lifecycle rules
-* Permissions
+**FREE Resources**
 
-Why GCP?
-
-> BigQuery + Dataflow + Pub/Sub = **Industry‑grade stack**.
+* Google Cloud Storage Tutorial
+  [https://www.youtube.com/watch?v=G3l9Xc6DkKk](https://www.youtube.com/watch?v=G3l9Xc6DkKk)
 
 ---
 
-## 🧠 Module 5: Data Warehousing on Cloud (BigQuery)
+## 🧠 Module 5: Cloud Data Warehouse – BigQuery
 
-Key Topics:
+**Topics**
 
 * BigQuery architecture
-* Tables & datasets
 * Partitioning & clustering
-* Query performance optimization
-* Cost control strategies
-
-Hands‑on:
-
-* Load data from GCS
-* Write analytical SQL
-* Optimize slow queries
-
----
-
-## ⚙️ Module 6: Big Data Processing (Spark)
-
-### Apache Spark Fundamentals
-
-* RDD vs DataFrame
-* Lazy evaluation
-* Transformations vs Actions
-
-### PySpark
-
-* DataFrame API
-* Joins & aggregations
-* Window functions
+* Cost optimization
 * Performance tuning
 
-### Spark on Cloud
+**FREE Resources**
 
-* Dataproc architecture
-* Cluster sizing
-* Job submission
+* BigQuery Full Course
+  [https://www.youtube.com/watch?v=M8dG3GxJ9x8](https://www.youtube.com/watch?v=M8dG3GxJ9x8)
+* BigQuery Interview Questions
+  [https://www.youtube.com/watch?v=YxJm7k8TQ9k](https://www.youtube.com/watch?v=YxJm7k8TQ9k)
 
 ---
 
-## 🔄 Module 7: Streaming & Real‑Time Data Engineering
+## ⚙️ Module 6: Big Data Processing (Apache Spark)
 
-### Pub/Sub (Messaging)
+**Topics**
 
-* Topics & subscriptions
-* Push vs Pull
-* Ordering & retries
+* Spark architecture
+* DataFrames & transformations
+* Performance tuning
+
+**FREE Resources**
+
+* Apache Spark Full Course
+  [https://www.youtube.com/watch?v=FNJze2Ea780](https://www.youtube.com/watch?v=FNJze2Ea780)
+* PySpark Zero to Hero
+  [https://www.youtube.com/watch?v=94w6hPk7nkM](https://www.youtube.com/watch?v=94w6hPk7nkM)
+
+---
+
+## 🔄 Module 7: Streaming & Real-Time Data Engineering
+
+### Pub/Sub
+
+**FREE Resources**
+
+* Google Pub/Sub Explained
+  [https://www.youtube.com/watch?v=pzQ8x4T5mKw](https://www.youtube.com/watch?v=pzQ8x4T5mKw)
 
 ### Dataflow (Apache Beam)
 
-* Batch vs streaming pipelines
-* Windowing
-* Watermarks
-* Exactly‑once processing
+**FREE Resources**
 
-Use cases:
-
-* Clickstream analytics
-* Event‑driven pipelines
+* Dataflow Full Course
+  [https://www.youtube.com/watch?v=cY9FzQJH5F8](https://www.youtube.com/watch?v=cY9FzQJH5F8)
 
 ---
 
@@ -209,34 +198,21 @@ Use cases:
 
 ### Apache Airflow (Cloud Composer)
 
-* DAG concepts
-* Operators & sensors
-* Scheduling & retries
-* Monitoring failures
+**FREE Resources**
 
-Why it matters:
-
-> Real pipelines **must be reliable & automated**.
+* Apache Airflow Full Course
+  [https://www.youtube.com/watch?v=AhC8V1d7J7k](https://www.youtube.com/watch?v=AhC8V1d7J7k)
+* Cloud Composer Explained
+  [https://www.youtube.com/watch?v=3A0Wm5GJZr8](https://www.youtube.com/watch?v=3A0Wm5GJZr8)
 
 ---
 
-## 🧪 Module 9: Data Quality, Monitoring & DevOps
+## 🏆 Module 9: End-to-End Data Engineering Projects (🔥 MOST IMPORTANT)
 
-* Data validation checks
-* Logging & monitoring
-* CI/CD for pipelines
-* Version control (Git)
-
----
-
-## 🏆 Module 10: End‑to‑End Data Engineering Projects (MOST IMPORTANT)
-
-You should build **at least 3–5 projects**.
-
-### Recommended Projects:
+### Must-Build Projects
 
 1️⃣ Batch Pipeline
-GCS → BigQuery → Analytics
+GCS → BigQuery
 
 2️⃣ Streaming Pipeline
 Pub/Sub → Dataflow → BigQuery
@@ -244,67 +220,38 @@ Pub/Sub → Dataflow → BigQuery
 3️⃣ Big Data Pipeline
 Spark (Dataproc) → BigQuery
 
-4️⃣ Orchestrated Pipeline
-Airflow + Cloud services
+**FREE Project Resources**
 
-Each project must include:
-
-* Architecture diagram
-* Data modeling
-* Error handling
-* README explanation
+* GCP End-to-End Data Engineering Project
+  [https://www.youtube.com/watch?v=VYp6kzj0nGQ](https://www.youtube.com/watch?v=VYp6kzj0nGQ)
 
 ---
 
-## 🎓 Module 11: Certifications (Optional but Valuable)
+## 🎓 Module 10: Certifications (Optional)
 
 * Google Associate Cloud Engineer
 * Google Professional Data Engineer
 
-Certifications **boost shortlisting**, but **projects crack interviews**.
-
 ---
 
-## 💼 Module 12: Interview Preparation
+## 💼 Module 11: Interview Preparation
 
-### Technical Areas:
+**FREE Resources**
 
-* SQL & optimization
-* Data modeling scenarios
-* Spark internals
-* Streaming design questions
-* Cloud architecture
-
-### Behavioral:
-
-* Explain your projects
-* Debugging stories
-* Design trade‑offs
-
----
-
-## 📌 How to Use This Repository
-
-* Fork this repo
-* Track progress module‑wise
-* Add your own notes
-* Build & push projects
+* SQL Interview Questions
+  [https://www.youtube.com/watch?v=fOCiis31Ng4](https://www.youtube.com/watch?v=fOCiis31Ng4)
+* GCP Data Engineer Interview Questions
+  [https://www.youtube.com/watch?v=KJvn0ypuNtI](https://www.youtube.com/watch?v=KJvn0ypuNtI)
 
 ---
 
 ## 🔥 Pro Tips
 
-* Consistency > Motivation
-* Practice > Watching videos
-* Projects > Certificates
+* Build projects while learning
+* Push everything to GitHub
+* Explain your work clearly in README files
 
-> Think like an **ENGINEER**, not a tool user.
-
----
-
-## 🤝 Contributing
-
-Contributions, improvements & suggestions are welcome!
+> Think like a **DATA ENGINEER**, not a tool user.
 
 ---
 
@@ -312,8 +259,9 @@ Contributions, improvements & suggestions are welcome!
 
 If this roadmap helps you:
 
-* Star ⭐ the repo
-* Share with data friends
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🔁 Share it
 
 ---
 
