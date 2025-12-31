@@ -109,8 +109,8 @@ Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration 
 
 **FREE Resources**
 
-* File Formats for Big Data
-  [https://www.youtube.com/watch?v=Kj9zH6Y2G2A](https://www.youtube.com/watch?v=Kj9zH6Y2G2A)
+* Big Data
+  [https://www.youtube.com/watch?v=Kj9zH6Y2G2A](https://www.youtube.com/watch?v=H5SHmiKTFsM)
 
 ---
 
@@ -128,16 +128,16 @@ Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration 
 **FREE Resources**
 
 * GCP Full Course for Beginners
-  [https://www.youtube.com/watch?v=JP4lH0xN6Zk](https://www.youtube.com/watch?v=JP4lH0xN6Zk)
+  [https://www.youtube.com/watch?v=JP4lH0xN6Zk](https://youtube.com/playlist?list=PLLrA_pU9-Gz2OnBoICkewd9-Fc9Mi0nm7&si=1PrKvKRJuFQlrUHt)
 * GCP IAM Explained
-  [https://www.youtube.com/watch?v=iqgXW6vPpLg](https://www.youtube.com/watch?v=iqgXW6vPpLg)
+  [https://www.youtube.com/watch?v=iqgXW6vPpLg](https://www.youtube.com/watch?v=iTY64is1-qk)
 
 ### Google Cloud Storage (GCS)
 
 **FREE Resources**
 
 * Google Cloud Storage Tutorial
-  [https://www.youtube.com/watch?v=G3l9Xc6DkKk](https://www.youtube.com/watch?v=G3l9Xc6DkKk)
+  [https://www.youtube.com/watch?v=G3l9Xc6DkKk](https://www.youtube.com/watch?v=ZJTgf_Ps7CY)
 
 ---
 
@@ -153,9 +153,11 @@ Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration 
 **FREE Resources**
 
 * BigQuery Full Course
-  [https://www.youtube.com/watch?v=M8dG3GxJ9x8](https://www.youtube.com/watch?v=M8dG3GxJ9x8)
-* BigQuery Interview Questions
-  [https://www.youtube.com/watch?v=YxJm7k8TQ9k](https://www.youtube.com/watch?v=YxJm7k8TQ9k)
+  [https://www.youtube.com/watch?v=M8dG3GxJ9x8](https://youtube.com/playlist?list=PLLrA_pU9-Gz0huN-J7mV9azDeXFeAYddG&si=7Re4xGEapemWU_Sj)
+* BigQuery Interview Questions <br>
+  1.https://www.datacamp.com/blog/bigquery-interview-questions<br>
+  2.https://bgiri-gcloud.medium.com/bigquery-sql-interview-questions-answers-5b1b7d57fbae <br>
+  3.https://www.finalroundai.com/blog/gcp-bigquery-interview-questions <br>
 
 ---
 
@@ -183,14 +185,14 @@ Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration 
 **FREE Resources**
 
 * Google Pub/Sub Explained
-  [https://www.youtube.com/watch?v=pzQ8x4T5mKw](https://www.youtube.com/watch?v=pzQ8x4T5mKw)
+  [https://www.youtube.com/watch?v=pzQ8x4T5mKw](https://www.youtube.com/watch?v=Unbx59eHL5I&t=8s)
 
 ### Dataflow (Apache Beam)
 
 **FREE Resources**
 
 * Dataflow Full Course
-  [https://www.youtube.com/watch?v=cY9FzQJH5F8](https://www.youtube.com/watch?v=cY9FzQJH5F8)
+  [https://www.youtube.com/watch?v=cY9FzQJH5F8](https://youtube.com/playlist?list=PLLrA_pU9-Gz1Sx4hWz2t3iVQHgzjGY8QW&si=5nYPAm2dpQNyLsOT)
 
 ---
 
@@ -201,9 +203,9 @@ Foundations → Modeling → Big Data → Cloud → Streaming → Orchestration 
 **FREE Resources**
 
 * Apache Airflow Full Course
-  [https://www.youtube.com/watch?v=AhC8V1d7J7k](https://www.youtube.com/watch?v=AhC8V1d7J7k)
+  [https://www.youtube.com/watch?v=AhC8V1d7J7k](https://youtube.com/playlist?list=PLLrA_pU9-Gz3i8qw6yakrfJzx75W_vVaH&si=HBFzuzUM3hFV8DEf)
 * Cloud Composer Explained
-  [https://www.youtube.com/watch?v=3A0Wm5GJZr8](https://www.youtube.com/watch?v=3A0Wm5GJZr8)
+  [https://www.youtube.com/watch?v=3A0Wm5GJZr8](https://youtube.com/playlist?list=PLLrA_pU9-Gz22Zml5mxcszG4A9ecqWtd4&si=hyWwhgDK7wrBxp5l)
 
 ---
 
@@ -222,9 +224,8 @@ Spark (Dataproc) → BigQuery
 
 **FREE Project Resources**
 
-* GCP End-to-End Data Engineering Project
-  [https://www.youtube.com/watch?v=VYp6kzj0nGQ]([https://www.youtube.com/watch?v=VYp6kzj0nGQ](https://github.com/saurabhvarule/Data_Engineering_Roadmap/edit/main/ReadMe.md))
-
+* **GCP End-to-End Data Engineering Project**  
+  https://youtu.be/r8dalB4A5ko?si=tc7hcLJxLkAkrxFv
 ---
 
 ## 🎓 Module 10: Certifications (Optional)
@@ -240,8 +241,9 @@ Spark (Dataproc) → BigQuery
 
 * SQL Interview Questions
   [https://www.youtube.com/watch?v=fOCiis31Ng4](https://www.youtube.com/watch?v=fOCiis31Ng4)
-* GCP Data Engineer Interview Questions
+* Data Engineer Interview Questions
   [https://www.youtube.com/watch?v=KJvn0ypuNtI](https://www.youtube.com/watch?v=KJvn0ypuNtI)
+* GCP Specific Interview Questions https://www.youtube.com/watch?v=zu8-9RULD5E
 
 ---
 
